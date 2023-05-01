@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning computer science
+- 🌱 I hope to be a software developer
 - 👯 My hobbies is watching movies
-- 🤔 I’m working on a chat bot for university project
+- 🤔 I’m working on some project for personal use
 - 📫 How to reach me: yyqyang59@hotmail.com
 
